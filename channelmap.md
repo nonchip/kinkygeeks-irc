@@ -14,3 +14,5 @@
 * Noch eine Couch
 * Noch eine Noch eine Couch
 * Sitzsäcke
+* Unbegrenzte Flauschvorräte
+* sushi-roll-emergency-kits (http://3tags.org/article/how-to-take-care-of-a-sad-person-in-10-steps/top/1459685458)
