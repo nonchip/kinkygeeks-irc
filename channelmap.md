@@ -16,5 +16,5 @@
 * Sitzsäcke
 * Unbegrenzte Flauschvorräte
 * sushi-roll-emergency-kits (http://3tags.org/article/how-to-take-care-of-a-sad-person-in-10-steps/top/1459685458)
-* Spielzuegschrank mit einer großen auswahl an toys
+* Spielzeugschrank mit einer großen auswahl an toys
 * Abgrund der in eins hineinsieht, wenn man hineinsieht
