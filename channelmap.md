@@ -2,6 +2,7 @@
 ## room
 * schallisoliert (one way richtung queries normalerweise)
 * kein Sonnenlicht
+* mit Sprinkleranlage
 
 ## places
 * Bällebad
@@ -13,6 +14,9 @@
 * Couch
 * Noch eine Couch
 * Noch eine Noch eine Couch
+    * gefüllt mit napalm
+    * dann angezündet
+    * blieb nurnoch das (modern metallene) gestell übrig, kann man bestimmt noch verwenden
 * Sitzsäcke
 * Unbegrenzte Flauschvorräte
 * sushi-roll-emergency-kits ([sowas da](http://3tags.org/article/how-to-take-care-of-a-sad-person-in-10-steps/top/1459685458))
